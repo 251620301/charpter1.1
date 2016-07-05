@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="charpter1:war exploded">
+    <output-path>$PROJECT_DIR$/target/charpter1-1.0.0</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="charpter1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:\Users\周紫浩\IdeaProjects\charpter1\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="charpter1/web/Web" />
+    </root>
+  </artifact>
+</component>
